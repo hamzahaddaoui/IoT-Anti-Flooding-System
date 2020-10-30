@@ -12,7 +12,7 @@ The sensors and devices are monitored via an electronic board (or via an electro
 The control unit also sends the data related to each single sensor to a server, in order to be able to carry out a remote control. It is possible to check in any moment the situation of the system, and perform some actions.
 
 ### Board
-![](https://github.com/hamzahaddaoui/IoT-Anti-Flooding-System/blob/main/Board.JPG)
+![](https://github.com/hamzahaddaoui/IoT-Anti-Flooding-System/blob/main/documentation/board.JPG)
 
 ### Electronics schematic
 
